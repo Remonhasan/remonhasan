@@ -4,5 +4,5 @@
   🐦 <a href="https://dev.to/remonhasan">Blog</a> 🐹
   <a href="https://www.npmjs.com/~remonhasan">Npm</a>
 </p>
-<small> Fan of Javascript !</small>
+<small align="center"> Fan of Javascript !</small>
 
