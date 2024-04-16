@@ -1,6 +1,9 @@
-### 👋 Hello! I'm Remon.
+<h3 align="center">👋 Hello! I'm Remon.</h3>
 
-🐦 [Blog](https://dev.to/remonhasan) 🐹 [Npm](https://www.npmjs.com/~remonhasan)
+<p align="center">
+  🐦 <a href="https://dev.to/remonhasan">Blog</a> 🐹
+  <a href="https://www.npmjs.com/~remonhasan">Npm</a>
+</p>
 
 ---
 
