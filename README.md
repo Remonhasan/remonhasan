@@ -15,11 +15,11 @@
               <div class="card-body">
                   <h4 class="card-title">Developing</h4>
                   <p class="card-text">Check out my developing Gists:</p>
-                  <a href="https://gist.github.com/Remonhasan/f3c4f184d3c2f9be70cdb5d57d79b2d7" class="btn btn-primary">View Gist</a>
+                  <a href="https://gist.github.com/Remonhasan/f3c4f184d3c2f9be70cdb5d57d79b2d7" class="btn btn-primary">1. Laravel Route Model Binding</a>
               </div>
           </div>
+      </div>
   </div>
- </div>
 </div>
 
        
