@@ -7,24 +7,28 @@
 
 ---
 
-<div align="center">
-  <h3>Check out my Gists</h3>
-  <div style="display: flex;">
-    <div style="flex: 50%; margin-right: 20px;">
-      <h4>Developing</h4>
-      <div>
-        <a href="https://gist.github.com/Remonhasan/f3c4f184d3c2f9be70cdb5d57d79b2d7">
-          1. Laravel Route Model Binding
-        </a>
-      </div>
+<div class="row">
+    <!-- First Section -->
+    <div class="col-lg-6">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Developing</h4>
+                <p class="card-title-desc">Check out my developing Gists:</p>
+                <a href="https://gist.github.com/Remonhasan/f3c4f184d3c2f9be70cdb5d57d79b2d7">Laravel Route Model Binding</a>
+            </div>
+        </div>
     </div>
-    <div style="flex: 50%;">
-      <h4>Competitive Programming</h4>
-      <div>
-        <a href="https://gist.github.com/Remonhasan/your-gist-id">
-          2. Your Competitive Programming Gist
-        </a>
-      </div>
+
+    <!-- Second Section -->
+    <div class="col-lg-6">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Competitive Programming</h4>
+                <p class="card-title-desc">Check out my competitive programming Gists:</p>
+                <a href="https://gist.github.com/Remonhasan/your-gist-id">Your Competitive Programming Gist</a>
+            </div>
+        </div>
     </div>
-  </div>
+</div>
+
 </div>
