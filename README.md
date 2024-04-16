@@ -39,7 +39,7 @@ More on [https://dev.to/remonhasan](https://dev.to/remonhasan)
 [BigMod Algorithm](https://gist.github.com/732bb59ed6105c12a3437494d502aa82.git) 
 
 <!-- tils ends -->
-More on [https://gist.github.com/Remonhasan](https://gist.github.com/Remonhasan)
+More on [CP Gist](https://gist.github.com/Remonhasan)
 </td></tr></table>
 
 
