@@ -9,8 +9,8 @@
 
 <div align="center">
   <h3>Check out my Gists</h3>
-  <div style="display: flex; justify-content: center;">
-    <div style="margin-right: 20px;">
+  <div style="display: flex;">
+    <div style="flex: 50%; margin-right: 20px;">
       <h4>Developing</h4>
       <div>
         <a href="https://gist.github.com/Remonhasan/f3c4f184d3c2f9be70cdb5d57d79b2d7">
@@ -18,7 +18,7 @@
         </a>
       </div>
     </div>
-    <div>
+    <div style="flex: 50%;">
       <h4>Competitive Programming</h4>
       <div>
         <a href="https://gist.github.com/Remonhasan/your-gist-id">
