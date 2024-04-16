@@ -9,7 +9,7 @@
 
 ### Development Gist
 <!-- development starts -->
-[Laravel Route Model Binding](https://github.com/simonw/datasette-cors/releases/tag/1.0.1)
+[Laravel Route Model Binding](https://gist.github.com/f3c4f184d3c2f9be70cdb5d57d79b2d7.git)
 
 
 </td><td valign="top" width="34%">
