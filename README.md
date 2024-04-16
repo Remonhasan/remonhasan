@@ -8,11 +8,10 @@
 ---
 
 <div align="center">
-  <h3>Popular Gist</h3>
-  <p>Check out my popular GitHub Gist:</p>
+  <h3>Check out my Gist</h3>
   <div align="center">
     <a href="https://gist.github.com/Remonhasan/f3c4f184d3c2f9be70cdb5d57d79b2d7">
-      Laravel Route Model Binding
+      1. Laravel Route Model Binding
     </a>
   </div>
 </div>
