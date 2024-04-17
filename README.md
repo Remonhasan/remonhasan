@@ -3,6 +3,7 @@
 <p align="center">
   🐦 <a href="https://dev.to/remonhasan">Blog</a> 🐹
   <a href="https://www.npmjs.com/~remonhasan">Npm</a>
+  🏷️<a href="https://remonhasan.com/">remonhasan.com</a>
 </p>
 
 <table><tr><td valign="top" width="33%">
