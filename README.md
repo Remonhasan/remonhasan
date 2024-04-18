@@ -10,16 +10,16 @@
 
 ### Development Gist
 <!-- development starts -->
-[Laravel Route Model Binding](https://gist.github.com/f3c4f184d3c2f9be70cdb5d57d79b2d7.git)
+[Laravel Route Model Binding](https://gist.github.com/f3c4f184d3c2f9be70cdb5d57d79b2d7.git) <br />
 
 
 </td><td valign="top" width="34%">
 
 ### On my blog
 <!-- blog starts -->
-[Preserving Special Characters in Query Parameters: A React Journey](https://dev.to/remonhasan/preserving-special-characters-in-query-parameters-a-react-journey-oko)
-[Cronjob Schedule: Automating Old Data Cleanup](https://dev.to/remonhasan/safeguarding-your-database-automating-old-data-cleanup-with-laravel-55a2)
-[Uses of useNavigate instead of useHistory](https://dev.to/remonhasan/uses-of-usenavigate-instead-of-usehistory-5fg6)
+[Preserving Special Characters in Query Parameters: A React Journey](https://dev.to/remonhasan/preserving-special-characters-in-query-parameters-a-react-journey-oko) <br />
+[Cronjob Schedule: Automating Old Data Cleanup](https://dev.to/remonhasan/safeguarding-your-database-automating-old-data-cleanup-with-laravel-55a2) <br />
+[Uses of useNavigate instead of useHistory](https://dev.to/remonhasan/uses-of-usenavigate-instead-of-usehistory-5fg6) <br />
 
 <!-- blog ends -->
 More on [https://dev.to/remonhasan](https://dev.to/remonhasan)
