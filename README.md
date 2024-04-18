@@ -29,11 +29,11 @@ More on [https://dev.to/remonhasan](https://dev.to/remonhasan)
 <!-- competitive programming starts -->
 
 [Sum of the two largest differences in the sorted array - 1934A](https://gist.github.com/129258f2ea425afde89b85f29d7791d0.git) <br />
-[Extended Euclidean Algorithm](https://gist.github.com/550dcbea206ab05f5425455d36fdb1a3.git)
-[Bitwise Sieve Algorithm](https://gist.github.com/8d82f877316645f0e6b2365a8959f40c.git)
-[Prime Factorization Algorithm](https://gist.github.com/dcfb47928d077c1ca7430a788e189e0e.git)
-[Segmented Sieve Algorithm (Prime Generator )](https://gist.github.com/d2560f2816441573f7414d1750539ea9.git)
-[BigMod Algorithm](https://gist.github.com/732bb59ed6105c12a3437494d502aa82.git) 
+[Extended Euclidean Algorithm](https://gist.github.com/550dcbea206ab05f5425455d36fdb1a3.git) <br />
+[Bitwise Sieve Algorithm](https://gist.github.com/8d82f877316645f0e6b2365a8959f40c.git) <br />
+[Prime Factorization Algorithm](https://gist.github.com/dcfb47928d077c1ca7430a788e189e0e.git) <br />
+[Segmented Sieve Algorithm (Prime Generator )](https://gist.github.com/d2560f2816441573f7414d1750539ea9.git) <br />
+[BigMod Algorithm](https://gist.github.com/732bb59ed6105c12a3437494d502aa82.git)  <br />
 
 <!-- tils ends -->
 More on [CP Gist](https://gist.github.com/Remonhasan)
