@@ -28,7 +28,7 @@ More on [https://dev.to/remonhasan](https://dev.to/remonhasan)
 ### Competitive Programming Gist
 <!-- competitive programming starts -->
 
-[Sum of the two largest differences in the sorted array - 1934A](https://gist.github.com/129258f2ea425afde89b85f29d7791d0.git)
+[Sum of the two largest differences in the sorted array - 1934A](https://gist.github.com/129258f2ea425afde89b85f29d7791d0.git) <br />
 [Extended Euclidean Algorithm](https://gist.github.com/550dcbea206ab05f5425455d36fdb1a3.git)
 [Bitwise Sieve Algorithm](https://gist.github.com/8d82f877316645f0e6b2365a8959f40c.git)
 [Prime Factorization Algorithm](https://gist.github.com/dcfb47928d077c1ca7430a788e189e0e.git)
