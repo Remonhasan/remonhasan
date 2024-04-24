@@ -12,6 +12,7 @@
 <!-- development starts -->
 [Laravel Route Model Binding](https://gist.github.com/f3c4f184d3c2f9be70cdb5d57d79b2d7.git) <br />
 [Laravel Custom Middleware Class](https://gist.github.com/c0b7aed4a05bdc0fbe3a0f9e1856c63a.git) <br />
+[Laravel Eloquent Query Scopes](https://gist.github.com/Remonhasan/382f76906895288d52206eb5a5d71fd3) <br />
 
 
 </td><td valign="top" width="34%">
