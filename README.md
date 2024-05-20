@@ -52,7 +52,7 @@ More on [CP Gist](https://gist.github.com/Remonhasan)
 Codeforces problem solutions organized by problem ratings 🎉
 </p>
 <p>
-  <img src="https://img.shields.io/badge/C++-brightgreen?style=flat-square">
+  <img src="https://img.shields.io/badge/C++-red?style=flat-round">
 </p>
 
 </td><td valign="top" width="34%">
@@ -64,7 +64,7 @@ Codeforces problem solutions organized by problem ratings 🎉
 Leetcode problem solutions 💼
 </p>
 <p>
-  <img src="https://img.shields.io/badge/C++-brightgreen?style=flat-square">
+  <img src="https://img.shields.io/badge/C++-red?style=flat-square">
 </p>
 
 </td><td valign="top" width="33%">
