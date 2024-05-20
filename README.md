@@ -64,7 +64,7 @@ Codeforces problem solutions organized by problem ratings 🎉
 Leetcode problem solutions 💼
 </p>
 <p>
-  <img src="https://img.shields.io/badge/C++-red?style=flat-square">
+  <img src="https://img.shields.io/badge/C++-red?style=flat-round">
 </p>
 
 </td><td valign="top" width="33%">
@@ -76,7 +76,7 @@ Leetcode problem solutions 💼
 PHP basic to advance problem solutions 🌟
 </p>
 <p>
-  <img src="https://img.shields.io/badge/PHP-red?style=flat-square">
+  <img src="https://img.shields.io/badge/PHP-red?style=flat-round">
 </p>
 
 </td></tr></table>
