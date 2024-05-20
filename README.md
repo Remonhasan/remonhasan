@@ -73,7 +73,7 @@ Leetcode problem solutions 💼
   <strong>php-basic-to-advance</strong>
 </a>
 <p>
-PHP basic to advance problem solutions 🌟
+PHP basic to advance topic with examples 🌟
 </p>
 <p>
   <img src="https://img.shields.io/badge/PHP-red?style=flat-round">
