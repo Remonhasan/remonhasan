@@ -42,7 +42,45 @@ More on [https://dev.to/remonhasan](https://dev.to/remonhasan)
 More on [CP Gist](https://gist.github.com/Remonhasan)
 </td></tr></table>
 
+## Repositories
 
+<table><tr><td valign="top" width="33%">
 
+### codeforces-solutions
+<a href="https://github.com/yourusername/codeforces-solutions">
+  <img src="https://img.shields.io/badge/-Public-brightgreen?style=flat-square">
+</a>
+<p>
+Codeforces problem solutions organized by problem ratings 🎉
+</p>
+<p>
+  <img src="https://img.shields.io/badge/C++-brightgreen?style=flat-square">
+</p>
 
+</td><td valign="top" width="34%">
 
+### leetcode-solutions
+<a href="https://github.com/yourusername/leetcode-solutions">
+  <img src="https://img.shields.io/badge/-Public-brightgreen?style=flat-square">
+</a>
+<p>
+Leetcode problem solutions 💼
+</p>
+<p>
+  <img src="https://img.shields.io/badge/C++-brightgreen?style=flat-square">
+</p>
+
+</td><td valign="top" width="33%">
+
+### php-basic-to-advance
+<a href="https://github.com/yourusername/php-basic-to-advance">
+  <img src="https://img.shields.io/badge/-Public-brightgreen?style=flat-square">
+</a>
+<p>
+PHP basic to advance problem solutions 🌟
+</p>
+<p>
+  <img src="https://img.shields.io/badge/C++-brightgreen?style=flat-square">
+</p>
+
+</td></tr></table>
