@@ -45,9 +45,8 @@ More on [CP Gist](https://gist.github.com/Remonhasan)
 
 <table><tr><td valign="top" width="33%">
 
-<a href="https://github.com/yourusername/codeforces-solutions">
+<a href="https://github.com/Remonhasan/codeforces-solutions">
   <strong>codeforces-solutions</strong>
-  <span style="display:block;">Public</span>
 </a>
 <p>
 Codeforces problem solutions organized by problem ratings 🎉
@@ -58,9 +57,8 @@ Codeforces problem solutions organized by problem ratings 🎉
 
 </td><td valign="top" width="34%">
 
-<a href="https://github.com/yourusername/leetcode-solutions">
+<a href="https://github.com/Remonhasan/leetcode-solutions">
   <strong>leetcode-solutions</strong>
-  <span style="display:block;">Public</span>
 </a>
 <p>
 Leetcode problem solutions 💼
@@ -71,15 +69,14 @@ Leetcode problem solutions 💼
 
 </td><td valign="top" width="33%">
 
-<a href="https://github.com/yourusername/php-basic-to-advance">
+<a href="https://github.com/Remonhasan/php-basic-to-advance">
   <strong>php-basic-to-advance</strong>
-  <span style="display:block;">Public</span>
 </a>
 <p>
 PHP basic to advance problem solutions 🌟
 </p>
 <p>
-  <img src="https://img.shields.io/badge/PHP-brightgreen?style=flat-square">
+  <img src="https://img.shields.io/badge/PHP-brightred?style=flat-square">
 </p>
 
 </td></tr></table>
