@@ -76,7 +76,7 @@ Leetcode problem solutions 💼
 PHP basic to advance problem solutions 🌟
 </p>
 <p>
-  <img src="https://img.shields.io/badge/PHP-brightred?style=flat-square">
+  <img src="https://img.shields.io/badge/PHP-red?style=flat-square">
 </p>
 
 </td></tr></table>
