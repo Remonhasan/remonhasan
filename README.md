@@ -31,6 +31,7 @@ More on [https://dev.to/remonhasan](https://dev.to/remonhasan)
 <!-- competitive programming starts -->
 
 [Sum of the two largest differences in the sorted array - 1934A](https://gist.github.com/129258f2ea425afde89b85f29d7791d0.git) <br />
+[Hash Map: Longest Palindrome (Leetcode)](https://gist.github.com/3e33d0e740d6815947b6c5053c8b3005.git) <br />
 [Extended Euclidean Algorithm](https://gist.github.com/550dcbea206ab05f5425455d36fdb1a3.git) <br />
 [Bitwise Sieve Algorithm](https://gist.github.com/8d82f877316645f0e6b2365a8959f40c.git) <br />
 [Prime Factorization Algorithm](https://gist.github.com/dcfb47928d077c1ca7430a788e189e0e.git) <br />
