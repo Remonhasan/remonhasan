@@ -14,7 +14,6 @@
 [Laravel Custom Middleware Class](https://gist.github.com/c0b7aed4a05bdc0fbe3a0f9e1856c63a.git) <br />
 [Laravel Eloquent Query Scopes](https://gist.github.com/Remonhasan/382f76906895288d52206eb5a5d71fd3) <br />
 
-
 </td><td valign="top" width="34%">
 
 ### On my blog
@@ -46,9 +45,9 @@ More on [CP Gist](https://gist.github.com/Remonhasan)
 
 <table><tr><td valign="top" width="33%">
 
-### codeforces-solutions
 <a href="https://github.com/yourusername/codeforces-solutions">
-  <img src="https://img.shields.io/badge/-Public-brightgreen?style=flat-square">
+  <strong>codeforces-solutions</strong>
+  <span style="display:block;">Public</span>
 </a>
 <p>
 Codeforces problem solutions organized by problem ratings 🎉
@@ -59,9 +58,9 @@ Codeforces problem solutions organized by problem ratings 🎉
 
 </td><td valign="top" width="34%">
 
-### leetcode-solutions
 <a href="https://github.com/yourusername/leetcode-solutions">
-  <img src="https://img.shields.io/badge/-Public-brightgreen?style=flat-square">
+  <strong>leetcode-solutions</strong>
+  <span style="display:block;">Public</span>
 </a>
 <p>
 Leetcode problem solutions 💼
@@ -72,15 +71,15 @@ Leetcode problem solutions 💼
 
 </td><td valign="top" width="33%">
 
-### php-basic-to-advance
 <a href="https://github.com/yourusername/php-basic-to-advance">
-  <img src="https://img.shields.io/badge/-Public-brightgreen?style=flat-square">
+  <strong>php-basic-to-advance</strong>
+  <span style="display:block;">Public</span>
 </a>
 <p>
 PHP basic to advance problem solutions 🌟
 </p>
 <p>
-  <img src="https://img.shields.io/badge/C++-brightgreen?style=flat-square">
+  <img src="https://img.shields.io/badge/PHP-brightgreen?style=flat-square">
 </p>
 
 </td></tr></table>
