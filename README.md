@@ -73,7 +73,7 @@ Leetcode problem solutions 💼
   <strong>php-basic-to-advance</strong>
 </a>
 <p>
-PHP basic to advance topic with examples 🌟
+Php basic to advance topics with example and problem solution of junior developer interview question of Ostad platform. 🌟
 </p>
 <p>
   <img src="https://img.shields.io/badge/PHP-red?style=flat-round">
