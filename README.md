@@ -1,5 +1,5 @@
-<h3 align="center">👋 Hello!</h3>
-<P  align="center">I'm Remon Hasan, a Software Engineer writing snippets in PHP and JavaScript, along with the Laravel framework, microservice Lumen, and React library.</P>
+<h3 align="center">👋 Hello! I'm Remon</h3>
+<P  align="center">A Software Engineer writing snippets in PHP and JavaScript, along with the Laravel framework, microservice Lumen, and React library.</P>
 <p align="center">
   🐦 <a href="https://dev.to/remonhasan">Blog</a> 🐹
   <a href="https://www.npmjs.com/~remonhasan">Npm</a>
