@@ -1,5 +1,5 @@
-<h3 align="center">👋 Hello! I'm Remon.</h3>
-
+<h3 align="center">👋 Hello!</h3>
+I'm Remon Hasan, a Software Engineer writing snippets in PHP and JavaScript.
 <p align="center">
   🐦 <a href="https://dev.to/remonhasan">Blog</a> 🐹
   <a href="https://www.npmjs.com/~remonhasan">Npm</a>
