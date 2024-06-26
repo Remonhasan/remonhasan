@@ -45,7 +45,7 @@ More on [CP Gist](https://gist.github.com/Remonhasan)
 
 <table><tr><td valign="top" width="33%">
 
-<a href="https://github.com/Remonhasan/codeforces-solutions">
+<a href="https://github.com/Remonhasan/codeforces">
   <strong>codeforces-solutions</strong>
 </a>
 <p>
