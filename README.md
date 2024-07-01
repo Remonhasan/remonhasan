@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hello! I'm Remon</h3>
-<P  align="center">A Software Engineer writing snippets in PHP, Python and JavaScript, along with the Laravel framework, microservice Lumen, and React library.</P>
- Explore:
+ A Software Engineer writing snippets in PHP, Python and JavaScript, along with the Laravel framework, microservice Lumen, and React library.
+ Explore: [Codeforces Solutions](https://github.com/Remonhasan/codeforces)
  <a href="https://github.com/Remonhasan/codeforces">
   Codeforces Solutions
 </a>
