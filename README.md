@@ -1,4 +1,4 @@
-![image](https://github.com/Remonhasan/remonhasan/assets/33865594/82d0e68c-dae8-4d50-8b05-32ea9238b2b7)<h3 align="center">👋 Hello! I'm Remon</h3>
+<h3 align="center">👋 Hello! I'm Remon</h3>
 <p align="center">A Software Engineer passionate about PHP, Python, and JavaScript, specializing in Laravel, Lumen, and React.</p>
 
 <p align="center">
