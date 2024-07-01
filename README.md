@@ -8,7 +8,7 @@
   &nbsp;&nbsp;|&nbsp;&nbsp;
   🧩 <a href="https://github.com/Remonhasan/leetcode-solutions">LeetCode Solutions</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
- 🧩 <a href="https://github.com/Remonhasan/leetcode-solutions">LeetCode Solutions</a>
+ 💡 <a href="https://github.com/Remonhasan/cp-code-library.git">CP Code Library</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   📘 <a href="https://github.com/Remonhasan/php-basic-to-advance">PHP Basic to Advance</a>
 </p>
