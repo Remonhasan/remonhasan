@@ -1,5 +1,5 @@
 <h3 align="center">👋 Hello! I'm Remon</h3>
-<p align="center">A Software Engineer passionate about PHP, Python and JavaScript, specializing in Laravel, Lumen, and React.</p>
+<p align="left">A Software Engineer passionate about PHP, Python and JavaScript, specializing in Laravel, Lumen, and React.</p>
 
 <p align="center">
   Explore my solutions:
