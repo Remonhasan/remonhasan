@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hello! I'm Remon</h3>
 <p align="left">A Software Engineer passionate about PHP, Python and JavaScript, specializing in Laravel, Lumen, and React.</p>
 
-<p align="center">
+<p align="left">
   Explore my solutions:
   📚 <a href="https://github.com/Remonhasan/codeforces">Codeforces Solutions</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
