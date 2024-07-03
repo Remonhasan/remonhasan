@@ -2,7 +2,7 @@
 <p align="left">A Software Engineer writing snippets in PHP and JavaScript, along with the Laravel framework, microservice Lumen, and React library.</p>
 
 <p align="left">
-  Explore my solutions:
+  Notable Contributions:
   📚 <a href="https://github.com/Remonhasan/codeforces">Codeforces Solutions</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   🧩 <a href="https://github.com/Remonhasan/leetcode-solutions">LeetCode Solutions</a>
