@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hello! I'm Remon</h3>
+<h3 align="center">👋 Hello! I'm Remon</h3> ![](https://komarev.com/ghpvc/?username=Remonhasan&style=for-the-badge)
 <p align="left">A Software Engineer writing snippets in PHP and JavaScript, along with the Laravel framework, microservice Lumen, and React library.</p>
 
 <p align="left">
