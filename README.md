@@ -1,5 +1,5 @@
 <h3 align="center">👋 Hello! I'm Remon</h3> 
-<p align="left">A Software Engineer writing snippets in PHP and JavaScript, along with the Laravel framework, microservice Lumen, React and React native.</p>
+<p align="left">Software Engineer writing snippets in PHP,JavaScript, Laravel (framework), microservice(Lumen), React(Library) and React native(Mobile App).</p>
 
 <p align="left">
   Notable Contributions:
