@@ -3,15 +3,13 @@
 
 <p align="left">
   Notable Contributions:
-  📚 <a href="https://github.com/Remonhasan/codeforces">Codeforces Solutions</a>
+  📚 <a href="https://github.com/Remonhasan/react-native-ssl-certificate-spinning">SSL Spinning (Andriod/ios)</a>
   &nbsp;|&nbsp;
-  🧩 <a href="https://github.com/Remonhasan/leetcode-solutions">LeetCode Solutions</a>
+  💡 <a href="https://github.com/Remonhasan/cp-code-library.git">CP Code Library</a>
   &nbsp;|&nbsp;
- 💡 <a href="https://github.com/Remonhasan/cp-code-library.git">CP Code Library</a>
+  🧩 <a href="https://github.com/Remonhasan/leetcode-solutions">LeetCode</a>
   &nbsp;|&nbsp;
-  📘 <a href="https://github.com/Remonhasan/php-basic-to-advance">PHP Basic to Advance</a>
-  &nbsp;|&nbsp;
-  🎉 <a href="https://gist.github.com/Remonhasan">Gist</a>
+  🎉 <a href="https://github.com/Remonhasan/codeforces">Codeforces</a>
 </p>
 
 <p align="center">
