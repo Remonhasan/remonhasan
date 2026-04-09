@@ -1,5 +1,4 @@
 <p align="center">
-  Expert on 
   <a href="https://codeforces.com/profile/Trait">
     <img src="https://badges.riever.dev/codeforces/Trait.svg" alt="Codeforces" style="vertical-align: middle;">
   </a>
