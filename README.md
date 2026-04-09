@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://cp-logo.vercel.app/codeforces/trait"></a>
+  href="https://cp-logo.vercel.app/codeforces/trait">
   📝 <a href="https://dev.to/remonhasan">Blog</a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   📦 <a href="https://www.npmjs.com/~remonhasan">Npm</a>
