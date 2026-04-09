@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://codeforces.com/profile/Trait">
-    <img src="https://badges.riever.dev/codeforces/jo_on.svg" alt="Codeforces">
+    <img src="https://badges.riever.dev/codeforces/Trait.svg" alt="Codeforces">
   </a>
 </p>
 
