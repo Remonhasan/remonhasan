@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://codeforces.com/profile/trait">
+  <a href="https://codeforces.com/profile/Trait">
     <img src="https://badges.riever.dev/codeforces/jo_on.svg" alt="Codeforces">
   </a>
 </p>
